@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input[value=""][required] {
+  border: solid 2px yellow;
+}
+
+input {
+  border: solid thin black;
+}
